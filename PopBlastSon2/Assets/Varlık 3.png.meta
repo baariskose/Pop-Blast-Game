@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 51551f941a49b3f4d90e8d1c6f061d03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3303372872197545775
+    second: "Varl\u0131k 3_0"
+  - first:
+      213: -6505142424778411040
+    second: "Varl\u0131k 3_1"
+  - first:
+      213: -1069453307615348201
+    second: "Varl\u0131k 3_2"
+  - first:
+      213: 4065647813248797826
+    second: "Varl\u0131k 3_3"
+  - first:
+      213: -4362643613844163639
+    second: "Varl\u0131k 3_4"
+  - first:
+      213: -3047905299843039500
+    second: "Varl\u0131k 3_5"
+  - first:
+      213: 8276855007304018907
+    second: "Varl\u0131k 3_6"
+  - first:
+      213: -3713260548124337479
+    second: "Varl\u0131k 3_7"
+  - first:
+      213: -1564003282695293338
+    second: "Varl\u0131k 3_8"
+  - first:
+      213: -5305347614315801129
+    second: "Varl\u0131k 3_9"
+  - first:
+      213: 2173512125475221260
+    second: "Varl\u0131k 3_10"
+  - first:
+      213: 1747422050398827052
+    second: "Varl\u0131k 3_11"
+  - first:
+      213: -5623064000857381407
+    second: "Varl\u0131k 3_12"
+  - first:
+      213: -5234798866257892529
+    second: "Varl\u0131k 3_13"
+  - first:
+      213: 2935349496231210353
+    second: "Varl\u0131k 3_14"
+  - first:
+      213: 1416008504764764831
+    second: "Varl\u0131k 3_15"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 388
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f1fff0020f7dd20800000000000000
+      internalID: 3303372872197545775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_1"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 717
+        width: 298
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e372cd2e6719b5a0800000000000000
+      internalID: -6505142424778411040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_2"
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 713
+        width: 415
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a78b702e98821f0800000000000000
+      internalID: -1069453307615348201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_3"
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 686
+        width: 423
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cc98a35251c6830800000000000000
+      internalID: 4065647813248797826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_4"
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 647
+        width: 442
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3313b5fb6c473c0800000000000000
+      internalID: -4362643613844163639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_5"
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 576
+        width: 611
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe33dd374aa3b5d0800000000000000
+      internalID: -3047905299843039500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_6"
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 568
+        width: 607
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbe4c7c6cb4dd270800000000000000
+      internalID: 8276855007304018907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_7"
+      rect:
+        serializedVersion: 2
+        x: 4866
+        y: 529
+        width: 489
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba93968439d77cc0800000000000000
+      internalID: -3713260548124337479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_8"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 470
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f6630d4b8b4ae0800000000000000
+      internalID: -1564003282695293338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_9"
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 466
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d59db6247e9f56b0800000000000000
+      internalID: -5305347614315801129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_10"
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 509
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f64f923cdd92e10800000000000000
+      internalID: 2173512125475221260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_11"
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 0
+        width: 466
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f4bab817104810800000000000000
+      internalID: 1747422050398827052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_12"
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 0
+        width: 509
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5eb9f551dd6f1b0800000000000000
+      internalID: -5623064000857381407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_13"
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 0
+        width: 595
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba4129a224a57b0800000000000000
+      internalID: -5234798866257892529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_14"
+      rect:
+        serializedVersion: 2
+        x: 4279
+        y: 0
+        width: 434
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dab7e80d47cb820800000000000000
+      internalID: 2935349496231210353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Varl\u0131k 3_15"
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 0
+        width: 419
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f929f659b3ca6a310800000000000000
+      internalID: 1416008504764764831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
